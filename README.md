@@ -7,7 +7,6 @@ This is the challenge 👇🏽
 ## Table of contents
 - [Overview](#)
     - [Screenshot](#screenshot)
--[My process](#my-process)
     - [Built with](#built-with)
 
 ### Screenshot
